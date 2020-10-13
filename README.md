@@ -96,6 +96,15 @@
 
 ---
 
+- To sync your local project with a currently deployed heroku app
+```
+heroku git:remote -a {heroku app name}
+```
+For Example:
+```
+heroku git:remote -a agile-falls-59049
+```
+
 # Troubleshooting
 
 - To restart your Heroku app:
