@@ -80,17 +80,6 @@
 
 ---
 
-# Deploying Database
-
-- You'll probably have to migrate the database as Heroku has a different database than your local machine's database
-
-- The copy Heroku has is called the *production* database, while your local copy is called the *development* database
-
-- To migrate your database on Heroku:
-  `heroku run rake db:migrate`
-
----
-
 # Troubleshooting
 
 - To see the latest from the logs, use:
