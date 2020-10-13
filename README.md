@@ -1,6 +1,4 @@
-# first_github_heroku
-
-# Deploying Apps to Heroku
+# Deploying Apps from Github to Heroku
 
 ---
 
@@ -62,7 +60,7 @@
 
 # Deploying
 
-- Deploy your code: <br />
+- Deploy your code. Start by pushing up your code to github: <br />
   `$ git add .` <br />
   `$ git commit -m 'commit message'` <br />
   `$ git push origin main` <br />
