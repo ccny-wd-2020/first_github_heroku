@@ -56,6 +56,7 @@
 <?php include_once("path/to/html"); ?>
 ```
 
+<strong>Please view this project as an example</strong>
 ---
 
 # Deploying
